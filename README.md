@@ -46,3 +46,18 @@ Git使ってしりとりをする。とりあえずgitの「add」「commit」�
 スイカ
 
 カラス
+
+## markdown記法テスト
+
+* リスト
+* リスト2
+	+リスト入れ子
+	+リスト入れ子2
+		++リスト入れ子
++リスト3
+
+***
+
+<blockquote>
+  <p>引用テスト　このtestは[wiki](http://ja.wikipedia.org/wiki/Markdown)を参考にしました。</p>
+</blockquote>
