@@ -49,6 +49,8 @@ Git使ってしりとりをする。とりあえずgitの「add」「commit」�
 
 スミ
 
+みそ
+
 ## markdown記法テスト
 
 * リスト
