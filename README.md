@@ -89,6 +89,8 @@ Git使ってしりとりをする。とりあえずgitの「add」「commit」�
 
 酢
 
+酢飯
+
 ## markdown記法テスト
 
 * リスト
